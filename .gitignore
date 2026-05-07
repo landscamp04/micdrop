@@ -1,0 +1,6 @@
+# Ignore Secrets, see .env.example for reference
+.env
+
+*.pyc
+.cache
+__pycache__/
